@@ -1,3 +1,10 @@
+"""
+CS240 Lab 1
+Name : Lai Jing Lin
+Partner: Adam & John
+
+"""
+
 def calculate_value(row, col):
     """
     Recursive method to get value at (row, col) in Pascal's Triangle.
